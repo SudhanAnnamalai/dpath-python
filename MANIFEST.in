@@ -1,4 +1,4 @@
-include LICENSE.txt
+include LICENSE.txt #Why it's been added here!
 include README.md
 include README.rst
 recursive-include tests *
